@@ -23,16 +23,11 @@ Storm Signal is an intelligent customer sentiment monitoring and alert system de
 ## 📸 Preview
 
 <p align="center">
-  <img src="docs/screenshot.png" alt="Storm Signal Dashboard Preview" width="800"/>
+  <img width="1141" height="714" alt="Screenshot 2025-10-04 234727" src="https://github.com/user-attachments/assets/6e8ff894-4534-48c8-8b12-a27e2915999c"
+/>
 </p>  
 
-<p align="center">
-  <img src="docs/demo.gif" alt="Storm Signal Demo GIF" width="800"/>
-</p>  
 
-*(Replace these placeholders with actual screenshots or GIFs from your project demo.)*
-
----
 
 ## 🚨 Problem
 
