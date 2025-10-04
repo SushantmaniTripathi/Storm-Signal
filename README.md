@@ -1,6 +1,3 @@
-Nice — badges at the top will make it feel professional right away. Here’s the README with badges added:
-
----
 
 # 🌩 Storm Signal – Customer Sentiment Alert System
 
@@ -133,6 +130,4 @@ Contributions are welcome! Feel free to open issues or submit PRs.
 
 This project is licensed under the **MIT License** – see [LICENSE](LICENSE) for details.
 
----
-
-👉 Want me to also add a **"How It Works" diagram section** (like architecture flow showing monitoring → detection → alert → Slack/Email)? That could really pop in a README.
+Connect : sushantmanitripathiji@gmail.com
