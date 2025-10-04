@@ -23,7 +23,7 @@ Storm Signal is an intelligent customer sentiment monitoring and alert system de
 ## 📸 Preview
 
 <p align="center">
-  <img width="1141" height="714" alt="Screenshot 2025-10-04 234727" src="https://github.com/user-attachments/assets/6e8ff894-4534-48c8-8b12-a27e2915999c"
+  <img width="300" height="400" alt="Screenshot 2025-10-04 234727" src="https://github.com/user-attachments/assets/6e8ff894-4534-48c8-8b12-a27e2915999c"
 />
 </p>  
 
