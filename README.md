@@ -8,9 +8,7 @@
   <a href="https://github.com/<YOUR_USERNAME>/<YOUR_REPO>/blob/main/LICENSE">
     <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License: MIT">
   </a>
-  <a href="https://github.com/<YOUR_USERNAME>/<YOUR_REPO>/stargazers">
-    <img src="https://img.shields.io/github/stars/<YOUR_USERNAME>/<YOUR_REPO>?style=social" alt="GitHub Stars">
-  </a>
+ 
   <a href="https://github.com/<YOUR_USERNAME>/<YOUR_REPO>/issues">
     <img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg" alt="Contributions Welcome">
   </a>
