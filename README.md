@@ -19,13 +19,13 @@
 
 ## 📸 Preview
 
-<p align="center">
-  <img width="1452" height="793" alt="image" src="https://github.com/user-attachments/assets/a57b8290-ee96-406d-8ca2-68fd096280b9" />
+<p align="center"> 
+<img width="1452" height="793" alt="image" src="https://github.com/user-attachments/assets/98a08bc3-d569-4d3b-96d2-a04429fc0130" />
 </p>
 
 <img width="1539" height="497" alt="image" src="https://github.com/user-attachments/assets/ccea7ddf-ab5d-42a8-806b-44d3a0860557" />
 
-<img width="1427" height="752" alt="image" src="https://github.com/user-attachments/assets/3e3998f3-6eab-4046-b855-052b87acb05b" />
+<img width="1427" height="752" alt="image" src="https://github.com/user-attachments/assets/75e09388-e02e-4671-ad31-2aad1c8ca3ea" />
 
 ---
 
