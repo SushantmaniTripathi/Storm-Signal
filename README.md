@@ -20,10 +20,12 @@
 ## 📸 Preview
 
 <p align="center">
-  <img width="700" alt="Storm Signal Dashboard Preview" src="https://github.com/user-attachments/assets/8a882b9c-80eb-4b44-8e58-080bec1dac0b" />
+  <img width="1452" height="793" alt="image" src="https://github.com/user-attachments/assets/a57b8290-ee96-406d-8ca2-68fd096280b9" />
 </p>
 
 <img width="1539" height="497" alt="image" src="https://github.com/user-attachments/assets/ccea7ddf-ab5d-42a8-806b-44d3a0860557" />
+
+<img width="1427" height="752" alt="image" src="https://github.com/user-attachments/assets/3e3998f3-6eab-4046-b855-052b87acb05b" />
 
 ---
 
