@@ -23,6 +23,8 @@
   <img width="700" alt="Storm Signal Dashboard Preview" src="https://github.com/user-attachments/assets/8a882b9c-80eb-4b44-8e58-080bec1dac0b" />
 </p>
 
+<img width="1539" height="497" alt="image" src="https://github.com/user-attachments/assets/ccea7ddf-ab5d-42a8-806b-44d3a0860557" />
+
 ---
 
 ## 🚨 The Problem
@@ -97,13 +99,7 @@ Support and CX teams are reactive. By the time a surge of negative sentiment is 
 |---|---|---|
 | [Tailwind CSS](https://tailwindcss.com/) | 3.4 | Utility-first CSS framework |
 | [shadcn/ui](https://ui.shadcn.com/) | latest | Accessible, customizable component library |
-| [Radix UI](https://www.radix-ui.com/) | various | Headless, accessible UI primitives |
-| [Lucide React](https://lucide.dev/) | 0.462 | Consistent, open-source icon set |
-| [Recharts](https://recharts.org/) | 2.12 | Composable charting & data visualization |
-| [Embla Carousel](https://www.embla-carousel.com/) | 8.3 | Extensible, touch-friendly carousels |
-| [next-themes](https://github.com/pacocoursey/next-themes) | 0.3 | Dark / light mode theming |
-| [Sonner](https://sonner.emilkowal.ski/) | 1.5 | Toast notification system |
-| [Vaul](https://vaul.emilkowal.ski/) | 0.9 | Drawer / bottom-sheet component |
+
 
 ### 🔧 Backend & Services
 
