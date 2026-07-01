@@ -1,4 +1,4 @@
-# 🌩️ Storm Signal — Real-Time AI Customer Sentiment Intelligence Engine
+# 🌩️ Storm Signal — Real-Time AI Customer Sentiment Intelligence System
 
 <p align="center">
 
@@ -42,7 +42,7 @@ Enable companies to detect negative sentiment spikes **before reputation damage 
 
 # ⚡ System Capabilities
 
-| AI Capability                   | Function                                                      |
+| Capability                   | Function                                                      |
 | ------------------------------- | ------------------------------------------------------------- |
 | **Real-Time Data Ingestion**    | Collects live customer mentions from multiple digital sources |
 | **NLP Classification Pipeline** | Classifies sentiment as Positive / Neutral / Negative         |
@@ -55,7 +55,7 @@ Enable companies to detect negative sentiment spikes **before reputation damage 
 
 ---
 
-# 🏗️ System Architecture (AI Pipeline)
+# 🏗️ System Architecture (Pipeline)
 
 ```mermaid
 flowchart TD
@@ -121,7 +121,7 @@ N --> O[Trend Dashboard + Monitoring]
 
 ---
 
-# 🧠 AI Engineering Stack
+# 🧠 Tech Stack
 
 ## Machine Learning & NLP
 
@@ -163,7 +163,7 @@ GitHub Actions
 
 ---
 
-# ⚙️ AI Pipeline Flow
+# ⚙️ Pipeline Flow
 
 ```text
 External Data Sources
