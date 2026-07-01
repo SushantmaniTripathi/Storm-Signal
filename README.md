@@ -311,6 +311,3 @@ GitHub: `github.com/SushantmaniTripathi`
 
 LinkedIn: `linkedin.com/in/sushantmanitripathi`
 
----
-
-This version looks **far stronger for AI Engineer / GenAI / Applied AI internship roles** than the original because the original looked like a dashboard project with UI-heavy stack. This one reads like **production AI infrastructure engineering**.
