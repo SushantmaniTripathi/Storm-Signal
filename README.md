@@ -72,6 +72,7 @@ C1 --> D[Streaming Queue]
 C2 --> D
 C3 --> D
 
+
 D --> E[Preprocessing Pipeline]
 
 E --> E1[Text Cleaning]
@@ -81,13 +82,21 @@ E --> E4[Embedding Generation]
 
 E4 --> F[Sentiment Classification Model]
 
-
+F --> F1[BERT / RoBERTa Model]
 F1 --> G[Confidence Scoring Engine]
+
+G --> H[Anomaly Detection Layer]
+
+H --> H1[Spike Detection]
+H --> H2[Severity Ranking]
 
 H1 --> I[LLM Recommendation Engine]
 H2 --> I
 
 I --> I1[GPT / OpenAI API]
+I1 --> J[AI Response Generation]
+
+J --> K[Alert Decision Engine]
 
 K --> K1[Critical Alert]
 K --> K2[Medium Alert]
